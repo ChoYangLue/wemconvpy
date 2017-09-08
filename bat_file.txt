@@ -1,0 +1,4 @@
+for %%f in (1008722316.wem) do ww2ogg.exe %%f --pcb packed_codebooks_aoTuV_603.bin
+pause
+for %%f in (1008722316.ogg) do revorb.exe %%f
+pause
