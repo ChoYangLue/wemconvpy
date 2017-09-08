@@ -4,7 +4,7 @@
 https://www.youtube.com/watch?v=J-na363d8fY&t=2s
 
 ## ダウンロード
-実行するに以下の二つのプログラムが必要。convert_gui.pyと同じ階層に入れる。ww2ogg019.zipは解凍して、ww2ogg.exeだけ取り出せばよい。
+実行するに以下の二つのプログラムが必要。convert_gui.pyと同じ階層に入れる。ww2ogg019.zipは解凍して、ww2ogg.exeだけ取り出せばよい。  
 http://hcs64.com/files/ww2ogg019.zip  
 http://yirkha.fud.cz/progs/foobar2000/revorb.exe  
 
